@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Escrito por Daniel Mendes Franklin Moraes.
+# Escrito por Daniel Mendes | Franklin Moraes.
 # Serve para contar a quantidade de palavras repetidas em arquivos.
 
 echo "Informe a referencia absoluta do arquivo que deseja ler."
